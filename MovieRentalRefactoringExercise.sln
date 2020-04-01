@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRentalRefactoringExercise", "MovieRentalRefactoringExercise\MovieRentalRefactoringExercise.csproj", "{BEFDF280-12E7-454F-B06C-48928A9A7262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFDF280-12E7-454F-B06C-48928A9A7262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFDF280-12E7-454F-B06C-48928A9A7262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFDF280-12E7-454F-B06C-48928A9A7262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFDF280-12E7-454F-B06C-48928A9A7262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F422229-07AF-4365-824E-FAD63BCCDB51}
+	EndGlobalSection
+EndGlobal
